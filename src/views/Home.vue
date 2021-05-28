@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    
+    <h1>My Cart App</h1>
   </div>
 </template>
 
